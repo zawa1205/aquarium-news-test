@@ -1,0 +1,15 @@
+.header {
+  background-color: $main-color;
+
+  text-align: left;
+  img {
+    display: inline-block;
+    width: 75px;
+    height: 75px;
+    vertical-align: middle;
+  }
+  .title {
+    display: inline-block;
+    color: #fff;
+  }
+}

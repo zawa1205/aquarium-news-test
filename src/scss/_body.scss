@@ -1,0 +1,52 @@
+.loading {
+  animation: App-logo-spin infinite 2s linear;
+  width: 100px;
+  height: 100px;
+  margin-top: 40vh;
+}
+.loadingWrapper {
+  content: "";
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+.contents {
+  max-width: 800px;
+  margin: auto;
+  margin-top: 50px;
+
+  .content {
+    background-color: #fff;
+    display: flex;
+    margin-bottom: 20px;
+
+    .image {
+      width: 30%;
+      .thum {
+        width: 100%;
+      }
+    }
+    .texts {
+      width: 70%;
+
+      h2 {
+        text-align: left;
+        padding-right: 30px;
+      }
+      .date {
+        text-align: right;
+        padding-right: 30px;
+      }
+      .place {
+        text-align: right;
+        padding-right: 30px;
+        color: #0477bf;
+      }
+    }
+  }
+}

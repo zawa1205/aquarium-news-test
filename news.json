@@ -1,0 +1,49 @@
+{
+    "news":
+    [
+        {
+            "id"    : 0,
+            "title" : "営業再開のお知らせ",
+            "date"  : "2021-05-29",
+            "place" : "sumida",
+            "url"   : "https://www.sumida-aquarium.com/news/details/3036.html"
+
+        },
+        {
+            "id"    : 1,
+            "title" : "９年連続仲間入り！マゼランペンギンの赤ちゃん３羽が誕生！",
+            "date"  : "2021-05-21",
+            "place" : "sumida",
+            "url"   : "https://www.sumida-aquarium.com/news/details/3021.html"
+        },
+        {
+            "id"    : 2,
+            "title" : "一時休館のお知らせ",
+            "date"  : "2021-04-24",
+            "place" : "sumida",
+            "url"   : "https://www.sumida-aquarium.com/news/details/3001.html"
+        },
+        {
+            "id"    : 3,
+            "title" : "【開催中止】夜の水族館で楽しむ大人の時間♪２つの”ワークナイトショップ”開催のお知らせ",
+            "date"  : "2021-04-19",
+            "place" : "sumida",
+            "url"   : "https://www.sumida-aquarium.com/news/details/3001.html"
+        },
+        {
+            "id"    : 4,
+            "title" : "営業再開に関するお知らせ（※6/7更新）",
+            "date"  : "2021-06-07",
+            "place" : "sunshine",
+            "url"   : "https://sunshinecity.jp/aquarium/news/entry-14803.html"
+        },
+        {
+            "id"    : 5,
+            "title" : "各種入場券についてのご案内（有効期限延長・払い戻し）（※6/7更新）",
+            "date"  : "2021-06-07",
+            "place" : "sunshine",
+            "url"   : "https://sunshinecity.jp/aquarium/news/entry-18538.html"
+        }
+
+    ]
+}
